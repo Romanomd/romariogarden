@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mobilidade/","title":"\"Mobilidade MOC\""}
+{"dg-publish":true,"permalink":"/mobilidade/"}
 ---
 
 Mobilidade é diferente de [[Flexibilidade\|Flexibilidade]]
