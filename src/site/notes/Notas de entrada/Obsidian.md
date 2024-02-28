@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/obsidian/","updated":"2024-02-24T06:26:50.176-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/obsidian/","updated":"2024-02-28T01:17:48.431-03:00"}
 ---
 
 
@@ -19,6 +19,7 @@ Em uma lista ordenada, do conteúdo mais relevante para o menos.
 
 ---
 
+`#nota📝/`
 
 - Notas capturadas ou customizadas
 - Notas acadêmicas ou revisadas
