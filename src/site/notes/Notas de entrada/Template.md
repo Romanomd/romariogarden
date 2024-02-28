@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/template/","updated":"2024-02-25T13:38:22.340-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/template/","updated":"2024-02-28T01:13:13.489-03:00"}
 ---
 
 
-[[Templates/nota_diária\|nota_diária]]
-[[Templates/nota_publish\|nota_publish]]
+[[Templates/t_diária\|t_diária]]
+[[Templates/t_notapublish\|t_notapublish]]
+[[Templates/t_filme\|t_filme]]
+[[Templates/t_pessoa\|t_pessoa]]
