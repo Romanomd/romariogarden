@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/cocoras/","updated":"2024-02-24T13:38:39.327-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/cocoras/","tags":["nota🔹"],"updated":"2024-02-29T00:34:12.437-03:00"}
 ---
+
 
 
 ## O que é cócoras?
