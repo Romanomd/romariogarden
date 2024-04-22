@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/jiddu-krishnamurti/","tags":["pessoa👤"],"updated":"2024-03-15T17:09:26.445-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/jiddu-krishnamurti/","tags":["pessoa👤"],"updated":"2024-04-10T10:34:04.536-03:00"}
 ---
 
 
@@ -19,6 +19,8 @@
 
 
 ## Citações
+
+### Sobre ele
 
 
 ## Perguntas que eu gostaria de fazer a essa pessoa
