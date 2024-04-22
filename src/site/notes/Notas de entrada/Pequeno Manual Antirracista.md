@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/pequeno-manual-antirracista/","tags":["livro📚"],"updated":"2024-03-27T16:05:43.459-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/pequeno-manual-antirracista/","tags":["livro📚"],"updated":"2024-03-27T17:43:42.122-03:00"}
 ---
 
+
+## Assuntos abordados
+
+- Antirracismo
+
+## Conteúdo do livro
 
 O racismo é, portanto, um sistema de opressão que nega direitos, e não um simples ato da vontade de um indivíduo. Reconhecer o caráter estrutural do racismo pode ser paralisante. Afinal, como enfrentar um monstro tão grande? No entanto, não devemos nos intimidar. A prática antirracista é urgente e se dá nas atitudes mais cotidianas. Como diz Silvio Almeida em seu livro Racismo estrutural:
 
