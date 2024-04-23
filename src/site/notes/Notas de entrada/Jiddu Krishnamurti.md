@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/jiddu-krishnamurti/","tags":["pessoa👤"],"updated":"2024-04-10T10:34:04.536-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/jiddu-krishnamurti/","tags":["pessoa👤"],"noteIcon":"👤","updated":"2024-04-23T18:40:20.137-03:00"}
 ---
 
 
