@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/musica-classica/","tags":["nota🔹"],"updated":"2024-03-01T20:45:24.854-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/musica-classica/","tags":["nota🔹"],"noteIcon":"","updated":"2024-03-01T20:45:24.854-03:00"}
 ---
 
 
