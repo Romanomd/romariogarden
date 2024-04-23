@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/romario/","tags":["Romário👤"],"updated":"2024-02-23T02:26:51.274-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/romario/","tags":["Romário👤"],"noteIcon":"","updated":"2024-02-23T02:26:51.274-03:00"}
 ---
 
 
