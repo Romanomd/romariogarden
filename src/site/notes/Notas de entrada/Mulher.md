@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/mulher/","tags":["nota🔹"],"updated":"2024-04-22T18:26:50.336-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/mulher/","tags":["nota🔹"],"noteIcon":"","updated":"2024-04-22T18:26:50.336-03:00"}
 ---
 
 
