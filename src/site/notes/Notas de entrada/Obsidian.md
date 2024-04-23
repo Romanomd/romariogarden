@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/obsidian/","updated":"2024-02-28T01:17:48.431-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/obsidian/","noteIcon":"","updated":"2024-04-23T18:32:34.778-03:00"}
 ---
 
 
 # Obsidian Tags
+
+## O que são tags?
+Tags são objetos
+
+`#pessoa👤`
+`#livro📚`
 
 🌱🌵🧭🗻🌍🍃
 
