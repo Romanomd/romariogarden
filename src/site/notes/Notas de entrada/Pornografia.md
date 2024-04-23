@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/pornografia/","tags":["nota🔹"],"updated":"2024-04-22T18:31:47.393-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/pornografia/","tags":["nota🔹"],"noteIcon":"","updated":"2024-04-22T18:31:47.393-03:00"}
 ---
 
 
