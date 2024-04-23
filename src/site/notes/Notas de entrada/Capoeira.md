@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/capoeira/","tags":["nota🔹"],"updated":"2024-03-01T02:03:37.362-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/capoeira/","tags":["nota🔹"],"noteIcon":"","updated":"2024-03-01T02:03:37.362-03:00"}
 ---
 
 
