@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/template/","noteIcon":"","updated":"2024-02-28T01:13:13.489-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/template/","updated":"2024-02-28T01:13:13.489-03:00"}
 ---
 
 
