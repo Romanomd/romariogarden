@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/t-pessoa/","tags":["pessoa👤"],"noteIcon":"","updated":"2024-02-28T01:09:13.590-03:00"}
+{"dg-publish":true,"permalink":"/templates/t-pessoa/","tags":["pessoa👤"],"updated":"2024-02-28T01:09:13.590-03:00"}
 ---
 
 
