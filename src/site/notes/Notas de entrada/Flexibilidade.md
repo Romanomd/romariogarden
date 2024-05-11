@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/flexibilidade/","noteIcon":"","updated":"2024-03-01T10:12:29.525-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/flexibilidade/","updated":"2024-03-01T10:12:29.525-03:00"}
 ---
 
 
