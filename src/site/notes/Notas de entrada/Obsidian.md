@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/obsidian/","noteIcon":"","updated":"2024-04-23T18:32:34.778-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/obsidian/","updated":"2024-05-11T16:05:41.976-03:00"}
 ---
 
+
+https://integralguide.com/Solo-Parts-Work-Journal
+https://notes.nitinpai.in/Frameworks/Indian+Philosophy
 
 # Obsidian Tags
 
@@ -9,6 +12,7 @@
 Tags são objetos
 
 `#pessoa👤`
+pessoa/contatoreal
 `#livro📚`
 
 🌱🌵🧭🗻🌍🍃
