@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/racismo/","tags":["nota🔹"],"noteIcon":"","updated":"2024-03-26T23:38:46.664-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/racismo/","tags":["nota🔹"],"updated":"2024-03-26T23:38:46.664-03:00"}
 ---
 
 
