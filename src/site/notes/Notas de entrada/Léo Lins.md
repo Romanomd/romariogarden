@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/leo-lins/","tags":["pessoa👤"],"noteIcon":"","updated":"2024-03-26T23:38:30.925-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/leo-lins/","tags":["pessoa👤"],"updated":"2024-03-26T23:38:30.925-03:00"}
 ---
 
 
