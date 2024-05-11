@@ -1,8 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/mulher/","tags":["nota🔹"],"noteIcon":"","updated":"2024-04-22T18:26:50.336-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/mulher/","tags":["nota🔹"],"updated":"2024-04-29T01:24:48.705-03:00"}
 ---
 
 
+## Minhas paixões platônicas
+
+- Fernanda Fernandes
+	- https://www.facebook.com/profile.php?id=100015852395872
+	- https://www.instagram.com/nath_rodrigues52/
+	- https://www.instagram.com/fnandesss/
+	- https://www.instagram.com/mare.doce/
+	- https://www.instagram.com/karen.drominiski/
+	- https://www.instagram.com/usewavee/
+	- https://twitter.com/drominiski13
+- Viviane Torres
+	- https://www.facebook.com/photo?fbid=1159199574202535&set=a.113552812100555
+	- https://www.instagram.com/anneyoshidaa/
 
 Flertes
 Mulher é objetificada pela [[Notas de entrada/Pornografia\|Pornografia]]
