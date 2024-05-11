@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/mestre-bimba/","tags":["pessoa👤"],"noteIcon":"","updated":"2024-03-01T21:19:08.321-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/mestre-bimba/","tags":["pessoa👤"],"updated":"2024-03-01T21:19:08.321-03:00"}
 ---
 
 
