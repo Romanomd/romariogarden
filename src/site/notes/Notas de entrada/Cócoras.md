@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/cocoras/","tags":["nota🔹"],"noteIcon":"","updated":"2024-02-29T00:34:12.437-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/cocoras/","tags":["nota🔹"],"updated":"2024-02-29T00:34:12.437-03:00"}
 ---
 
 
