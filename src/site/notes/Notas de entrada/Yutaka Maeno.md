@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/yutaka-maeno/","tags":["pessoa👤"],"noteIcon":"","updated":"2024-02-23T01:49:46.916-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/yutaka-maeno/","tags":["pessoa👤"],"updated":"2024-02-23T01:49:46.916-03:00"}
 ---
 
 
