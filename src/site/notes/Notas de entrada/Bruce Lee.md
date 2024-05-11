@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/bruce-lee/","tags":["pessoa👤"],"updated":"2024-05-11T16:18:47.454-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/bruce-lee/","tags":["pessoa👤"],"updated":"2024-05-11T17:04:34.135-03:00"}
 ---
 
 
@@ -35,4 +35,4 @@ Website pessoal
 
 ![Pasted image 20240328002056.png|710](/img/user/Notas%20de%20entrada/Pasted%20image%2020240328002056.png)
 
-> “Não usando nenhum caminho como caminho; não tendo limitação como limitação.”
+> ==Não usando nenhum caminho como caminho; não tendo limitação como limitação.==
