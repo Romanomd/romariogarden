@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/maiores-inspiracoes/","tags":["Romário👤"],"noteIcon":"","updated":"2024-02-24T13:34:34.202-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/maiores-inspiracoes/","tags":["Romário👤"],"updated":"2024-02-24T13:34:34.202-03:00"}
 ---
 
 
