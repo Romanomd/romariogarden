@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/pequeno-manual-antirracista/","tags":["livro📚"],"updated":"2024-03-27T17:43:42.122-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/pequeno-manual-antirracista/","tags":["livro📚"],"updated":"2024-05-13T18:06:22.423-03:00"}
 ---
 
 
