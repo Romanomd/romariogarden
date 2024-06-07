@@ -1,24 +1,50 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/obsidian/","updated":"2024-05-11T16:05:41.976-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/obsidian/","updated":"2024-05-21T16:30:06.865-03:00"}
 ---
 
 
 https://integralguide.com/Solo-Parts-Work-Journal
 https://notes.nitinpai.in/Frameworks/Indian+Philosophy
 
+O Obsidian oferece escrita contínua.
+
 # Obsidian Tags
 
 ## O que são tags?
 Tags são objetos
-
+diário
 `#pessoa👤`
 pessoa/contatoreal
+nota
+filme
 `#livro📚`
+
 
 🌱🌵🧭🗻🌍🍃
 
 `#mapa🗺`: para toda estrutura de tópicos.
 `#pensamento🔗`
+
+## Calendário Tags
+``
+
+# Como definir os parametrôs de um ícone?
+
+Estou pensando em definir com base em coisas essenciais, fundamentais e dispensáveis. 
+
+## Obsídian Ícones
+
+O plugin *Iconize* permite adicionar ícones em notas para uma visualização dinâmica e de fácil reconhecimento. É um guia e uma bússola para navegar entre suas notas.
+
+💡🔑 Ideias chaves
+🌞 Coisas essenciais
+🪓 Coisas fundamentais
+⚓ Coisas dispensáveis
+
+🎯 Objetivos
+
+
+
 
 
 # Obsidian Notas
@@ -65,5 +91,6 @@ As placas de sinalização são notas que nos permitem navegar facilmente (ex. C
 Aviso
 
 Os níveis de maturidade são subjetivos. Pode significar apenas que sou uma pessoa muito imatura.
+
 
 
