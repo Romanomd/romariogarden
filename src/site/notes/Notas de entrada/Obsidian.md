@@ -1,12 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/notas-de-entrada/obsidian/","updated":"2024-05-21T16:30:06.865-03:00"}
+{"dg-publish":true,"permalink":"/notas-de-entrada/obsidian/","updated":"2024-09-07T06:27:49.103-03:00"}
 ---
 
 
+# Obsidian Footnotes
+- Add autocompletion for footnote references using `[^`.
+
+https://notes.andymatuschak.org/About_these_notes
 https://integralguide.com/Solo-Parts-Work-Journal
 https://notes.nitinpai.in/Frameworks/Indian+Philosophy
 
 O Obsidian oferece escrita contínua.
+
+## Imagens inspiration
+![[rx76mmbw.bmp]]
 
 # Obsidian Tags
 

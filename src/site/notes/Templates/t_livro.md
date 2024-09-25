@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/t-livro/","tags":["livro📚"],"updated":"2024-03-27T17:43:01.572-03:00"}
+{"dg-publish":true,"permalink":"/templates/t-livro/","tags":["livro📚"],"updated":"2024-06-19T10:31:18.981-03:00"}
 ---
 
 
