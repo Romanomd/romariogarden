@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pessoa/mestre-bimba/","tags":["pessoa👤"],"updated":"2024-11-17T05:23:20.312-03:00"}
+{"dg-publish":true,"permalink":"/pessoa/mestre-bimba/","tags":["pessoa👤"],"updated":"2024-11-17T05:23:20.313-03:00"}
 ---
 
 # Mestre Bimba

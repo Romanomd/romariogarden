@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas-antigas/rsc/notas/notas-rapida/alimentacao/","updated":"2025-01-19T13:51:11.042-03:00"}
+{"dg-publish":true,"permalink":"/notas-antigas/rsc/notas/notas-rapida/alimentacao/","updated":"2025-01-19T13:51:11.043-03:00"}
 ---
 
 # Alimentação

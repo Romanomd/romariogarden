@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nota-capital/","tags":["gardenEntry"],"updated":"2025-02-10T19:07:26.743-03:00"}
+{"dg-publish":true,"permalink":"/nota-capital/","tags":["gardenEntry"],"updated":"2025-02-10T19:07:26.744-03:00"}
 ---
 
 # Nota capital

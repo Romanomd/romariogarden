@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pessoa/yutaka-maeno/","tags":["pessoa👤"],"updated":"2024-11-17T15:09:50.967-03:00"}
+{"dg-publish":true,"permalink":"/pessoa/yutaka-maeno/","tags":["pessoa👤"],"updated":"2024-11-17T15:09:50.968-03:00"}
 ---
 
 # Yutaka Maeno

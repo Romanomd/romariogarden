@@ -14,7 +14,7 @@ Foram os brancos que criaram o racismo. ==wtf==
 - Racismo estrutural
 	- Racismo não pode e não deve ser reduzido a ação indívidual.
 	- "Pessoas podem agir de forma racista conscientemente ou não. Temos como resultado desigualdades muito acentuadas entre brancos e negros", lembra a especialista em gênero e raça Bruna Pereira. Vivemos em uma sociedade cuja estrutura é racista, e o papel de não negros não se limita a não ser racista, mas, sim, em ser antirracista.
-- [[NOTAAAAAAAAS/Pequeno Manual Antirracista\|Pequeno Manual Antirracista]]
+- [[Livro/Pequeno Manual Antirracista\|Pequeno Manual Antirracista]]
 	- Antirracismo
 		- Educação antirracista
 			- Logoterapia
