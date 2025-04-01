@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nota/hermeneutica/","tags":["nota🔹"],"updated":"2024-11-17T05:32:04.874-03:00"}
+{"dg-publish":true,"permalink":"/nota/hermeneutica/","tags":["tema📔"],"updated":"2025-04-01T11:40:34.490-03:00"}
 ---
 
 # Hermenêutica
