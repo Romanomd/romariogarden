@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/tema/obsidian/","updated":"2025-04-01T15:20:50.908-03:00"}
+{"dg-publish":true,"permalink":"/tema/obsidian/","updated":"2025-04-01T15:32:10.406-03:00"}
 ---
 
 # Obsidian
-É um aplicativo para escrever notas. Eu utilizo para escrever notas e não adiciono imagens para não ficar pesado.
+É um aplicativo para **escrever notas**. Eu utilizo para escrever notas e não adiciono imagens para não ficar pesado.
 
+**BOLD**
 ## Funcionalidades
 
 **Tags**
